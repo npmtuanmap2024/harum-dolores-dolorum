@@ -1,18 +1,77 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "@npmtuanmap2024/harum-dolores-dolorum",
+  "description": "Full-duplex stream emulation over HTTP/2",
+  "version": "v1.0.0",
+  "author": "tuan149",
+  "type": "module",
+  "main": "server.js",
+  "browser": "client.js",
+  "directories": {
+    "test": "test"
   },
-  "author": "",
+  "keywords": [
+    "http2",
+    "duplex",
+    "stream"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/plugin-transform-modules-commonjs": "^7.24.1",
+    "babel-plugin-istanbul": "^6.1.1",
+    "buffer": "^6.0.3",
+    "chai": "^5.1.0",
+    "crypto-browserify": "^3.12.0",
+    "eslint": "^8.57.0",
+    "grunt": "^1.6.1",
+    "grunt-eslint": "^24.3.0",
+    "grunt-exec": "^3.0.0",
+    "mocha": "^10.4.0",
+    "nw-builder": "^4.7.1",
+    "nyc": "^15.1.0",
+    "process": "^0.11.10",
+    "source-map-loader": "^5.0.0",
+    "stream-browserify": "^3.0.0",
+    "vm-browserify": "^1.1.2",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "engines": {
+    "node": ">= 16"
+  },
   "license": "MIT",
+  "dependencies": {
+    "@npmtuanmap2024/accusamus-doloremque-quos": "^v1.0.0",
+    "@npmtuanmap2024/adipisci-quaerat-iure": "^v1.0.0",
+    "@npmtuanmap2024/alias-odio-veniam": "^v1.0.0",
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/commodi-dignissimos-officiis": "^v1.0.0",
+    "@npmtuanmap2024/commodi-neque-veritatis": "^v1.0.0",
+    "@npmtuanmap2024/dolores-quas-facilis": "^v1.0.0",
+    "@npmtuanmap2024/error-repudiandae-asperiores": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/expedita-ex-atque": "^v1.0.0",
+    "@npmtuanmap2024/facere-facilis-blanditiis": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/iusto-mollitia-voluptatem": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/molestias-sequi-enim": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-amet-ipsum": "^v1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0",
+    "@npmtuanmap2024/reiciendis-eos-magnam": "^v1.0.0",
+    "@npmtuanmap2024/saepe-quia-voluptates": "^v1.0.0",
+    "@npmtuanmap2024/voluptate-placeat-ea": "^v1.0.0",
+    "@npmtuanmap2024/voluptatibus-officia-fugit": "^v1.0.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmtuanmap2024/harum-dolores-dolorum.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/npmtuanmap2024/harum-dolores-dolorum/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/harum-dolores-dolorum/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
